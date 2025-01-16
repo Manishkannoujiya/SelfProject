@@ -1,0 +1,65 @@
+h1{ 
+    color: red;
+    text-align: center;
+    }
+    h2{
+    color: green;
+    text-align: center;
+
+    }
+    p{
+        color:burlywood
+    }
+    button{
+        color:aqua
+    }
+    body{
+        background-color: rgb(10,20,30);
+    }
+    button{
+        background-color: rgb(255,150,0);
+    }
+    #headingOne{
+        color:cornflowerblue
+    }
+    #headingTwo{
+        color:chocolate
+    }
+    #headingThree{
+        color:blue
+    }
+    #headingFour{
+        color:chartreuse
+    }
+    #manish{
+        color: #ff0f00
+    }
+    #one{
+        text-align: center;
+        font-weight: 230;
+        font-family: fantasy;}
+
+        #two{
+            font-weight: 300;
+            font-family: inherit;
+            font-style: italic;
+            font-size: 50px;
+        }
+        #three{
+            font-weight: 100;
+            font-family:unset;
+            font-style:normal;
+            font-size: 50px;
+        }
+        #four{
+            font-weight: 100;
+            font-family:Arial, Helvetica, sans-serif;
+            font-style:unset;
+            font-size: 50px;
+        }
+        div{
+            height: 500px;
+            width: 500px;
+            margin-top: 10px;
+            display: inline;
+        }
